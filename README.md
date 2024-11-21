@@ -1,0 +1,1 @@
+42 Solong is a 2D game project where players navigate through a maze, collecting items and avoiding obstacles. It involves tasks like parsing map files, handling player movement, and implementing basic game mechanics using the MinilibX graphics library.
